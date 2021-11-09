@@ -1,0 +1,95 @@
+body{
+    text-align:center;
+    margin:0;
+   
+}
+
+
+#dp{
+    width:50px;
+    cursor:pointer
+
+}
+
+#dq{
+    width:50px;
+    cursor:pointer;
+}
+
+#dogPic{
+    width:800px;
+}
+
+
+
+#welcome{
+    background:linear-gradient(white 0%, rgb(206, 242, 232) 100%);
+    z-index:9;
+}
+#videos{
+    background:linear-gradient(white 0%, rgb(199, 245, 227) 100%)
+}
+
+#head1{
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+#head3{
+    color:grey;
+    font-family: 'Dosis', sans-serif;
+}
+
+#btnLeft{
+    background-color:white;
+    border:none;
+}
+
+#btnRight{
+    background-color:white;
+    border:none
+}
+
+#paragraph{
+    max-width:1000px;
+    margin:8px auto;
+}
+
+.line{
+    width:2000px;
+    height:3px;
+    background-color:White;
+}
+
+#paragraphG{
+    max-width:1000px;
+    margin:8px auto;
+}
+
+.What{
+    font-family: 'Dosis', sans-serif;  
+}
+
+.menu{
+    position:fixed;
+    top:10px;
+    right:30px;
+    list-style:none;
+    cursor:pointer;
+    z-index:10;
+}
+
+.listitem{
+    float:left;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:8px;
+    font-size:18px;
+    font-family: 'Caveat', cursive;
+font-family: 'Dosis', sans-serif;
+
+}
+
+html{
+    scroll-behavior:smooth;
+}
